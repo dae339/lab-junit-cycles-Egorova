@@ -31,7 +31,7 @@
 ---
 
 ## 📎 Ссылки
-- [Код тестов](src/test/java/StudentGradeTest.java)
-- [Основной класс](src/main/java/StudentGrade.java)
+- [Код тестов](LAB2_1/src/test/java/StudentGradeTest.java)
+- [Основной класс](LAB2_1/src/main/java/StudentGrade.java)
 
 *Дата: 26.06.2026*
